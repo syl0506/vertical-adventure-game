@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: a85eb8957a1144ef1948b014dc2441f6
+timeCreated: 1512112898
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: militaWarrior_0
+    21300002: militaWarrior_1
+    21300004: militaWarrior_2
+    21300006: militaWarrior_3
+    21300008: militaWarrior_4
+    21300010: militaWarrior_5
+    21300012: militaWarrior_6
+    21300014: militaWarrior_7
+    21300016: militaWarrior_8
+    21300018: militaWarrior_9
+    21300020: militaWarrior_10
+    21300022: militaWarrior_11
+    21300024: militaWarrior_12
+    21300026: militaWarrior_13
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: -1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: militaWarrior_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 36
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: militaWarrior_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -104, y: 17}
+      - {x: -104, y: -43}
+      - {x: -94, y: -54}
+      - {x: -82, y: -54}
+      - {x: -82, y: 16}
+      - {x: -84, y: 17}
+    - - {x: -62, y: -19}
+      - {x: -70, y: -21}
+      - {x: -73, y: -24}
+      - {x: -74, y: -28}
+      - {x: -59, y: -54}
+      - {x: -46, y: -54}
+      - {x: -46, y: -19}
+    - - {x: 2, y: -41}
+      - {x: 2, y: -27}
+      - {x: -13, y: -19}
+      - {x: -24, y: -19}
+      - {x: -25, y: -21}
+      - {x: -25, y: -54}
+      - {x: -14, y: -54}
+      - {x: -13, y: -46}
+      - {x: -6, y: -48}
+    - - {x: 11, y: -54}
+      - {x: 30, y: -54}
+      - {x: 38, y: -49}
+      - {x: 38, y: -30}
+      - {x: 20, y: -19}
+      - {x: 12, y: -19}
+      - {x: 11, y: -20}
+    - - {x: -49, y: -19}
+      - {x: -46, y: -17}
+      - {x: -46, y: 50}
+      - {x: -47, y: 54}
+      - {x: -68, y: 54}
+      - {x: -68, y: -19}
+    - - {x: -30, y: 53}
+      - {x: -31, y: 52}
+      - {x: -32, y: 46}
+      - {x: -32, y: -5}
+      - {x: -23, y: -19}
+      - {x: -18, y: -19}
+      - {x: -10, y: -11}
+      - {x: -10, y: 46}
+      - {x: -13, y: 53}
+    - - {x: 9, y: 17}
+      - {x: 6, y: 16}
+      - {x: 4, y: 13}
+      - {x: 4, y: -7}
+      - {x: 10, y: -19}
+      - {x: 26, y: -19}
+      - {x: 26, y: 17}
+    - - {x: 40, y: -8}
+      - {x: 43, y: -17}
+      - {x: 47, y: -19}
+      - {x: 58, y: -19}
+      - {x: 62, y: -14}
+      - {x: 62, y: 8}
+      - {x: 58, y: 18}
+      - {x: 45, y: 18}
+      - {x: 42, y: 17}
+      - {x: 40, y: 14}
+    - - {x: 80, y: 20}
+      - {x: 77, y: 19}
+      - {x: 76, y: 11}
+      - {x: 76, y: -5}
+      - {x: 85, y: -19}
+      - {x: 90, y: -19}
+      - {x: 98, y: -11}
+      - {x: 98, y: 9}
+      - {x: 95, y: 20}
+    - - {x: -104, y: 53}
+      - {x: -104, y: 30}
+      - {x: -94, y: 17}
+      - {x: -82, y: 17}
+      - {x: -82, y: 45}
+      - {x: -86, y: 53}
+    - - {x: 9, y: 52}
+      - {x: 6, y: 51}
+      - {x: 4, y: 41}
+      - {x: 4, y: 30}
+      - {x: 10, y: 20}
+      - {x: 14, y: 17}
+      - {x: 17, y: 18}
+      - {x: 20, y: 17}
+      - {x: 26, y: 17}
+      - {x: 26, y: 52}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
